@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Al Noor Mehdi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+    header {
+      background-color: #fff;
+      text-align: center;
+      padding: 20px;
+      border-bottom: 2px solid #ddd;
+      position: relative;
+    }
+    .logo {
+      width: 80px;
+      height: 80px;
+      background-color: black;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 10px;
+    }
+    .logo::before {
+      content: '\1F697'; /* Car emoji */
+      font-size: 40px;
+      color: white;
+    }
+    h1 {
+      margin: 0;
+      font-size: 28px;
+      font-weight: bold;
+    }
+    .section {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    .section img {
+      width: 100%;
+      border-radius: 8px;
+      margin: 20px 0;
+    }
+    .contact {
+      background-color: #eee;
+      padding: 30px 20px;
+      border-top: 2px solid #ccc;
+      text-align: center;
+    }
+    .contact h2 {
+      margin-bottom: 10px;
+    }
+    iframe {
+      margin-top: 20px;
+      width: 100%;
+      height: 300px;
+      border: 0;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo"></div>
+    <h1>Al Noor Mehdi</h1>
+  </header>
+
+  <div class="section">
+    <p>あなたのお車の車検が切れた時、もしお車をお売りになるのでしたらお電話ください。高価買取いたします！</p>
+
+    <img src="https://i.postimg.cc/j2ZRD4cj/Okayama-Korakuen-Garden01.jpg" alt="Korakuen Garden">
+
+    <p>ハシュミトレーディング株式会社<br>
+    NISSAN ISUZU HINO MITSUBISHI TOYOTA<br>
+    中古車・部品・輸出・輸入・ユンボ・オーシュブル・ダンプ・トラック・重機</p>
+
+    <img src="https://i.postimg.cc/1X99RjpT/2850219-NPRAMTTIPPER-f09a3d72-1be4-51f8-8654-5b5964f48c3d.jpg" alt="Truck">
+
+    <p>古物商許可番号<br>第721050030030</p>
+
+    <img src="https://i.postimg.cc/ydh1HHSc/high-angle-view-cars-parked-parking-lot-1048944-27426888.jpg" alt="Cars">
+
+    <p>ハシュミムハンマドアミール</p>
+
+    <img src="https://i.postimg.cc/T1x9Hrrf/IMG-20250704-WA0016.jpg" alt="Owner">
+  </div>
+
+  <div class="contact">
+    <h2>お問い合わせ</h2>
+    <p>携帯：080-2000-6764</p>
+    <p>Email: hashmiamir14300@gmail.com</p>
+    <h3>所在地 (Location)</h3>
+    <p>〒701-4301 岡山県瀬戸市牛窓町長浜6859番地1</p>
+    <iframe 
+  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13237.964478284802!2d134.156579!3d34.627208!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355430b730aaaaab%3A0x8c6ef2f302e5566e!2z5a6u6Jek5bel5qWt55S66YO96Zmi5a6u5qCh!5e0!3m2!1sja!2sjp!4v1720100000000!5m2!1sja!2sjp" 
+  width="100%" 
+  height="300" 
+  style="border:0; border-radius:10px;" 
+  allowfullscreen="" 
+  loading="lazy" 
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+  </div>
+</body>
+</html>
